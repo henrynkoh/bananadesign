@@ -1,0 +1,210 @@
+═══════════════════════════════════════════════════════════
+📧 EMAIL VERSION (Copy-Paste Ready)
+═══════════════════════════════════════════════════════════
+
+Subject: Review Request: NanoBanana Pro - AI Interior Design Platform
+
+Hi [Name],
+
+I hope this message finds you well! I'm reaching out because I'd value your expertise and feedback on a new project I've been developing.
+
+NanoBanana Pro is an AI-powered interior design visualization platform that transforms floor plans into photorealistic interior design renders in just 60 seconds. It's designed for homeowners, interior designers, and real estate professionals.
+
+What I'd Love Your Input On:
+- Overall user experience and interface design
+- Feature functionality and usefulness
+- Case studies and marketing messaging
+- Technical implementation
+- Any improvements or missing features you notice
+
+How to Review:
+
+Option 1: View on GitHub (Quick Look)
+🔗 https://github.com/henrynkoh/bananadesign
+- Landing Page: components/LandingPage.tsx
+- Main App: app/app/page.tsx
+- Documentation: README.md, USER_MANUAL.md, TUTORIAL.md
+
+Option 2: Deploy to Vercel (See It Live - 2 Minutes)
+1. Go to https://vercel.com
+2. Sign up/login with GitHub
+3. Click "New Project"
+4. Import: henrynkoh/bananadesign
+5. Add environment variable: REPLICATE_API_TOKEN (get free token from replicate.com)
+6. Click "Deploy"
+7. Get live URL instantly!
+
+Option 3: Run Locally (Full Testing)
+git clone https://github.com/henrynkoh/bananadesign.git
+cd bananadesign
+npm install
+# Create .env.local with: REPLICATE_API_TOKEN=your_token
+npm run dev
+# Open http://localhost:3000
+
+What to Review:
+1. Landing Page (/) - Modern design with 3 case studies, sidebar navigation
+2. Application (/app) - Floor plan upload, AI chatbot, design generation
+3. Documentation - Complete guides and tutorials
+
+Quick Feedback:
+- What works well?
+- What needs improvement?
+- What's missing?
+- Overall rating (1-10)?
+- Would you use this? Why/why not?
+
+No rush - any feedback within the next week would be greatly appreciated!
+
+Thank you so much for your time and expertise!
+
+Best regards,
+[Your Name]
+
+═══════════════════════════════════════════════════════════
+📱 iPHONE MESSAGE VERSION (Copy-Paste Ready)
+═══════════════════════════════════════════════════════════
+
+Hi [Name]! 👋
+
+I've built an AI interior design tool called NanoBanana Pro and would love your feedback!
+
+It turns floor plans into photorealistic designs in 60 seconds. Perfect for homeowners, designers, and real estate pros.
+
+🔗 GitHub: https://github.com/henrynkoh/bananadesign
+
+To see it live (2 min):
+1. Go to vercel.com
+2. Import: henrynkoh/bananadesign
+3. Add REPLICATE_API_TOKEN env var
+4. Deploy → Get live URL!
+
+Or run locally:
+git clone https://github.com/henrynkoh/bananadesign.git
+cd bananadesign
+npm install
+npm run dev
+
+What I need:
+- UI/UX feedback
+- Feature suggestions
+- Overall impressions
+- Would you use it?
+
+Key sections:
+- Landing page with 3 case studies
+- App functionality
+- Documentation
+
+No rush - any feedback this week would be amazing! 🙏
+
+Thanks!
+
+═══════════════════════════════════════════════════════════
+💬 WHATSAPP/TELEGRAM VERSION (Copy-Paste Ready)
+═══════════════════════════════════════════════════════════
+
+Hey [Name]! 👋
+
+Quick favor - I built an AI interior design platform and need your expert eyes on it!
+
+NanoBanana Pro - Transforms floor plans → stunning interior designs in 60s
+
+🔗 https://github.com/henrynkoh/bananadesign
+
+Quick review:
+1. Check the landing page design
+2. Review the 3 case studies
+3. Test the app (deploy to Vercel or run locally)
+4. Share any feedback!
+
+To see it live:
+- Vercel.com → Import repo → Deploy (2 min)
+- Or: git clone → npm install → npm run dev
+
+What I'm looking for:
+- Does it look professional?
+- Are the features useful?
+- What's missing?
+- Would you use it?
+
+Thanks a ton! 🙏
+
+═══════════════════════════════════════════════════════════
+💼 LINKEDIN MESSAGE VERSION (Copy-Paste Ready)
+═══════════════════════════════════════════════════════════
+
+Hi [Name],
+
+I hope you're doing well! I'm reaching out because I've developed a new AI-powered interior design visualization platform and would greatly value your professional feedback.
+
+NanoBanana Pro helps homeowners, designers, and real estate professionals transform floor plans into photorealistic interior design renders using AI - all in just 60 seconds.
+
+Given your expertise in [their field], I'd love to get your perspective on:
+- User experience and interface design
+- Feature functionality and market fit
+- Overall project viability
+
+Repository: https://github.com/henrynkoh/bananadesign
+
+The project includes a modern landing page with 3 detailed case studies, full application functionality, comprehensive documentation, and marketing materials.
+
+To see it live, you can deploy to Vercel (takes 2 minutes) or run it locally. I'd be happy to walk you through it or answer any questions.
+
+Would you be open to a quick review? I'm particularly interested in your thoughts on the case studies section and overall user flow.
+
+Thank you for your time!
+
+Best,
+[Your Name]
+
+═══════════════════════════════════════════════════════════
+📋 FEEDBACK FORM (Copy-Paste Ready)
+═══════════════════════════════════════════════════════════
+
+NanoBanana Pro - Partner Feedback Form
+
+Reviewer: [Name]
+Date: [Date]
+
+1. First Impressions (1-10)
+Visual Design: ___
+Professionalism: ___
+Clarity of Purpose: ___
+
+2. Landing Page Review
+Design Quality: ___
+Case Studies Effectiveness: ___
+Navigation: ___
+Call-to-Actions: ___
+
+3. Application Functionality
+Ease of Use: ___
+Feature Completeness: ___
+User Flow: ___
+Error Handling: ___
+
+4. Documentation
+Clarity: ___
+Completeness: ___
+Helpfulness: ___
+
+5. Overall Assessment
+Would you use this? Yes / No / Maybe
+Overall Rating: ___/10
+Market Viability: Strong / Moderate / Weak
+
+6. Strengths
+[List what works well]
+
+7. Areas for Improvement
+[List what needs work]
+
+8. Missing Features
+[What should be added]
+
+9. Additional Comments
+[Any other thoughts]
+
+═══════════════════════════════════════════════════════════
+
